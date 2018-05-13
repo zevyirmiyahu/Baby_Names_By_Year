@@ -9,6 +9,8 @@ Program finds what a person name would have been in another year based on their 
 * Format and Error handling
 * Clean design
 
+## Download Zip File
+<a href="baby_names_miniProject.zip" download>Download Zip File</a>
 
 ## Program Images
 
