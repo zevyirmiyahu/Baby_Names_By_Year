@@ -1,1 +1,6 @@
-theme: jekyll-theme-midnight
+title: Baby Names by Year
+logo: /assets/img/GitHub-Mark-120px-plus.png
+description: Find what name what have been in another year based on popularity
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
